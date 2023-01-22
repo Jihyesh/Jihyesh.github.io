@@ -10,16 +10,16 @@ title:  "Analysis of Reselling platform and user behaviors"
 
 ### Contents
 
-- Problem frame </br>
-  1-1. Problem </br>
-  1-2. Data set </br>
-  1-3. Exploratory data analysis </br>
+- Problem frame
+  - 1-1. Problem
+  - 1-2. Data set
+  - 1-3. Exploratory data analysis
 - Mode
-  2-1. Baseline </br>
-  2-2.Improved model </br>
+  - 2-1. Baseline
+  - 2-2.Improved model
 - Interpretation
-  3-1. Interpretation of features </br>
-  3-2. Action proposal </br>
+  - 3-1. Interpretation of features
+  - 3-2. Action proposal
 
 ---
 
