@@ -7,7 +7,7 @@ title:  "Analysis of multicategory online shopping mall and its users"
 
 [Download PDF](/assets/CodeStatesCP1/English/CP1_(Eng).pdf)
 
-#### Contents
+### Contents
 - Analysis
   - Hypothesis about the problem
   - Hypothesis test and problem definition
@@ -16,7 +16,7 @@ title:  "Analysis of multicategory online shopping mall and its users"
 - Self-assessment
 - Project overview and organization
 ---
-#### Analysis
+### Analysis
 
 ##### Hypothesis about the problem
 ![Hypothesis about the problem 1](/assets/CodeStatesCP1/English/슬라이드4.JPG)
@@ -35,7 +35,7 @@ title:  "Analysis of multicategory online shopping mall and its users"
  
 
 
-#### Consequence of the project
+### Consequence of the project
 **It is necessary to understand the customers who purchase high-involvement products and to devise a marketing strategy**
 
 - Although it is a shopping mall that sells multi-categories, the categories that customers actually purchase are high-involvement products such as electronic products and electronic furniture
@@ -48,7 +48,7 @@ title:  "Analysis of multicategory online shopping mall and its users"
 
 
 
-#### Self-assessment
+### Self-assessment
 **Regrets, learnings and achievements**
 
 - In the case of multi-category sales, it would be possible to determine at the EDA level whether a particular category was selling the most.
@@ -63,5 +63,5 @@ title:  "Analysis of multicategory online shopping mall and its users"
 
 
 
-#### Prject Overview and organization
+### Prject Overview and organization
 ![Prject Overview and organization](/assets/CodeStatesCP1/English/슬라이드3.JPG)
