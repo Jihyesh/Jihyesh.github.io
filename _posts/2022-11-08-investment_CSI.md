@@ -6,6 +6,12 @@ title:  "Finding good financial instruments with consumer sentiment index data"
 # This project intended to find the relationship between return rate of financial instruments and consumer sentiment index and found out there was no meaningful relation.
 **This project used API, NoSQL, MongoDB, Flask, Regression models and Pickling.**
 
+### Model
+
+
+### Result
+
+
 ### Data
 - Rate of return for each funds and consumer sentiment index(CSI) data has been downloaded from two sources
 
@@ -15,7 +21,7 @@ title:  "Finding good financial instruments with consumer sentiment index data"
   |Consumer sentiment index (CSI)|Statistics Korea website|CSV|
 
 - Data set has been retrieved from Financial Supervisory Service through API. Then, the data is loaded to database (MongoDB)
-  <img src="/assets/CodeStatesSection3/MongoDB.png" width="80%">
+  <img src="/assets/CodeStatesSection3/MongoDB.png" width="60%">
   
 - Below is the code to use API and load to MongoDB
 
@@ -62,11 +68,5 @@ title:  "Finding good financial instruments with consumer sentiment index data"
 
   ```
 
-### Model
-
-
-### Result
-
 ### Distribution
 
-### Tools
