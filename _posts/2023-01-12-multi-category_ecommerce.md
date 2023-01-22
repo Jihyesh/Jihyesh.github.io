@@ -7,7 +7,7 @@ title:  "Analysis of multicategory online shopping mall and its users"
 
 
 
-[Hypothesis about the problem 1](/ssets/CodeStatesCP1/English/슬라이드4.JPG)
+![Hypothesis about the problem 1](/ssets/CodeStatesCP1/English/슬라이드4.JPG)
 
 ![My helpful screenshot](/ssets/CodeStatesCP1/English/슬라이드5.JPG)
 
