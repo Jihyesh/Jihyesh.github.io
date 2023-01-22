@@ -12,6 +12,20 @@ title:  "Finding good financial instruments with consumer sentiment index data"
 ### Result
 
 
+|Type of fund	|Data set	|Score	|Ordinary Least Square	|RidgeCV	|LassoCV	|Baseline |
+|---|---|---|---|---|---|---|
+|Fund of Fund	|Test	|R square	|0.299	|0.299	|0.294	|0|
+|Equity type fund |Test	|R square	|0.566	|0.566	|0.557	|0|
+|Short-term financial instruments	|Test	|R square	|0.551	|0.551	|-0.009	|0|
+|Fixed income fund	|Test	|R square	|0.034	|0.035	|-0.004	|0|
+|Mixed equity investment fund	|Test	|R square	|0.535	|0.535	|0.522	|0|
+|Mixed fixed income investment fund	|Test	|R square	|0.573	|0.579	|0.5	|0|
+|Property	|Test	|R square	|0.619	|0.621	|0.623	|0|
+|Derivatives	|Test	|R square	|0.611	|0.612	|0.599	|0|
+|Special asset	|Test	|R square	|0.607	|0.586	|0.391	|0|
+
+
+
 ### Data
 - Rate of return for each funds and consumer sentiment index(CSI) data has been downloaded from two sources
 
