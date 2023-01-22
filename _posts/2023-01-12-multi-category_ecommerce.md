@@ -15,6 +15,8 @@ title:  "Analysis of multicategory online shopping mall and its users"
 - Consequence of the project
 - Self-assessment
 - Project overview and organization
+
+
 ---
 
 
