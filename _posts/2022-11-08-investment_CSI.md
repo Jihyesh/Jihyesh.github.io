@@ -92,3 +92,36 @@ title:  "Finding good financial instruments with consumer sentiment index data"
 
 ### Distribution
 
+- Serialize the trained model with pickle library
+- Create html template to allow input and display the calculated result
+- Develop web application with flask library (below is the script to develop the application)
+
+  ```python
+  from flask import Flask, render_template, request
+  import pickle
+  import numpy as np
+  from sklearn.linear_model import RidgeCV, LassoCV
+
+  model = pickle.load(open('model/model.pkl','rb'))
+
+  app = Flask(__name__)
+
+
+  @app.route('/')
+  def Home():
+      return render_template('index.html')
+
+  @app.route('/predict', methods = ['POST'])
+  def predict():
+
+      float_features = [float(x) for x in request.form.values()]
+      arr = [np.array(float_features)]
+      pred = model.predict(arr)
+
+      return render_template('index.html', price= pred)
+
+
+
+  if __name__ =='__main__':
+      app.run(debug=True)
+  ```
