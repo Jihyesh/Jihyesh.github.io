@@ -16,6 +16,9 @@ title:  "Analysis of multicategory online shopping mall and its users"
 - Self-assessment
 - Project overview and organization
 ---
+
+
+
 ### Analysis
 
 ##### Hypothesis about the problem
