@@ -8,9 +8,17 @@ title:  "Finding good financial instruments with consumer sentiment index data"
 
 ### Model
 
+[Jupyter Notebook for models in Korean](/assets/CodeStatesSection3/project3.ipynb)
+
+- Independent variables are consumer sentiment index
+  - Living prospect CSI, Houshold income outlook CSI, Future economic outlook CSI, Consumption expenditure forecast CSI, Household savings outlook CSI, House price forecast CSI, Job opportunity outlook CSI, Wage level outlook CSI, Interest rate level outlook CSI, Houshold debt outlook CSI, Consumer sentiment index
+  - Among 11 CSI, model selects 5 features that are best explain the rate of return
+- Target feature is annual rate-of-return from 2018-2021
+- Models are Ordinary least square (OLS), RidgeCV and LassoCV
+- Baseline is simple average return of rate over three years
 
 ### Result
-
+- Although models expect better than the baseline, the R square is not high and the forecasted return rate is not credible.
 
 |Type of fund	|Data set	|Score	|Ordinary Least Square	|RidgeCV	|LassoCV	|Baseline |
 |---|---|---|---|---|---|---|
