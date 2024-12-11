@@ -8,7 +8,7 @@ Purpose: To project revenues, expenses, and cash flows over a specific time hori
 ### Inputs:
 - Historical data, revenue drivers (e.g., sales volume, pricing), expense assumptions.
 ### Calculations:
-Monthly or quarterly breakdown of P&L, balance sheet, and cash flow.
+- Monthly or quarterly breakdown of P&L, balance sheet, and cash flow.
 - Detailed cost-center-level expense analysis.
 ### Outputs:
 - Variance analysis (actual vs. budget) and rolling forecasts.
