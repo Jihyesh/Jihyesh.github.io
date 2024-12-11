@@ -5,7 +5,7 @@ title:  "Basic Skeleton Model for Forecasting 2021-2025 Schneider Electric Korea
 
 ## Assuming the trend from 2017 to 2021 continues in next 5 years, Schneider Electric is facing serious risk of shutting down their business.
 The main reason of this downturn is steep decline rate of sales. This post navigates forecast of P&L, BS, and Cash flow over 5 years. 
-You can find the skeleton model [here](https://github.com/Jihyesh/Jihyesh.github.io/blob/master/assets/SchneiderElectric/Schneider%20Electric_2017-2020%20and%20forecast.xlsx)
+You can find the skeleton model [here](assets/SchneiderElectric/Schneider_Electric_2017-2020_forecast.xlsx)
 
 ### Profit and Loss
 ![pl](https://github.com/user-attachments/assets/7cc9cb96-b5e6-4470-961d-ec9e65d8ce0b)
